@@ -85,11 +85,9 @@ int main()
     printf("%cPress Enter any time to end the game\n", 179);
     printf("%cDon't maximize the window\n", 179);
     printf("%cPress any key to continue", 179);
-
     getch();
     system("cls");
     boundary();
-
     srand(time(NULL));
     int *x, *y, px = ((rand() % 58) * 2) + 3, py = (rand() % 28) + 1, len = 1;
     char c, l;
