@@ -1,6 +1,6 @@
-Introduction
-The following is an example game written in C based on the game called 'snake'.
-
+Snake Game Project:
+In this project we use C Programming language.
+It Has been around Earliest game.
 which has been around since the earliest days of home computing (1 can remember writing a version of it for my ZX81), and has re-emerged in recent years on mobile phones.
 
 It isn't the world's greatest game, but it does give you an idea of what you can achieve with a relatively simple C program,
