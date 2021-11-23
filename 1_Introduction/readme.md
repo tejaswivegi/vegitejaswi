@@ -18,8 +18,9 @@ The aim of the game is to collect the dots (food) and avold the obstacles (cross
 
 As you collect food, the snake gets longer, so increasing your likelihood of crashing into yourself. When you have collected enough food, you progress onto the next level, where your snake gets longer, and the amount of food to collect to progress through the level gets larger. You get scored according to the length of the snake and the number of'x' obstacles on the screen.
 
-The speed increases every 5 levels. You get a bonus when you complete the level of 1000, increasing by 1000 each level (e.g. complete level 5, you get a 5000 bonus).
+The speed increases every 5 levels. You get a bonus when you complete the level of 1000, increasing by 1000 each level.
+(e.g. complete level 5, you get a 5000 bonus).
 
-There is no concept of lives. Once you hit an obstacle, that's it, game over.
+There is no concept of lives. Once you hit an obstacle,then game over.
 
-Make sure you do not have the capslock on otherwise keys will fails to respond.
+"Make sure you do not have the capslock on otherwise keys will fails to respond"
