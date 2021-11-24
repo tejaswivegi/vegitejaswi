@@ -8,7 +8,7 @@ Surround was one of the nine Atari VCS launch titles in the US and was sold by S
 
 That same year, a similar game was launched for the Bally Astrocade as Checkmate.
 
-Snake II was launched with Nokia’s 3310 in 2000 and it became an entire generation’s obsession.
+"Snake II was launched with Nokia’s 3310 in 2000 and it became an entire generation’s obsession"
 
 The snake wasn’t just a line anymore, but had a proper form, there were bonuses and the screen was cyclical, allowing one to go through the bottom of the screen and come back out the top.
 In India and across the world, kids were hooked, eagerly competing for the highest score whether they were lying in bed, pretending to study in class or sitting at a café.
