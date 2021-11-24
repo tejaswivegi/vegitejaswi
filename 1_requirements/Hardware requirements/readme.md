@@ -1,5 +1,7 @@
 # Hardware Requirements:
-Hard disk : 32GB RAM: 128MB
+Hard disk : 32GB 
+
+RAM: 128MB
 
 processor : Any pentium Version
 
