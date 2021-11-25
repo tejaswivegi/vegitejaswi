@@ -9,7 +9,7 @@ It isn't the world's greatest game, but it does give you an idea of what you can
 
 and perhaps the basis by which to extend the principles and create more interesting games of your own.
 
-#Playing the game
+# Playing the game
 
 You can download the executable to try out the game without having to compile it if you wish.
 
