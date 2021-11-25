@@ -1,4 +1,6 @@
-#Snake Game Project:
+# Snake Game Project:
+
+
 In this project we use C Programming language.
 It Has been around Earliest game.
 which has been around since the earliest days of home computing (1 can remember writing a version of it for my ZX81), and has re-emerged in recent years on mobile phones.
@@ -8,6 +10,7 @@ It isn't the world's greatest game, but it does give you an idea of what you can
 and perhaps the basis by which to extend the principles and create more interesting games of your own.
 
 #Playing the game
+
 You can download the executable to try out the game without having to compile it if you wish.
 
 Download it by clicking here it is about 123k in length Note that on faster PCs, it will be unplayably fast, so you will need to re-compile it with the pause length constant set to a higher value.
